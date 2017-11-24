@@ -21,12 +21,13 @@ obvious semantics. TOML is designed to map unambiguously to a hash table. TOML
 should be easy to parse into data structures in a wide variety of languages.
 
 Table of contents
--------
+-----------------
 
 - [Example](#user-content-example)
 - [Spec](#user-content-spec)
 - [Comment](#user-content-comment)
 - [Key/Value Pair](#user-content-keyvalue-pair)
+- [Keys](#user-content-keys)
 - [String](#user-content-string)
 - [Integer](#user-content-integer)
 - [Float](#user-content-float)
@@ -1003,7 +1004,7 @@ Documentation, bug reports, pull requests, and all other contributions
 are welcome!
 
 Wiki
-----------------------------------------------------------------------
+----
 
 We have an [Official TOML Wiki](https://github.com/toml-lang/toml/wiki) that
 catalogs the following:
